@@ -1,0 +1,146 @@
+Script.Start,{"target_widths": [60.839999999999996, 91.35, 121.85999999999999, 182.79], "target_distances": [1800, 3299.94, 4799.88, 6300], "multiple_modes": 1}
+Script.InteractionMode,{"mode": "HybridMode.Pull"}
+Script.TargetWidth,{"target_width": 60.839999999999996}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 898, "x": 6634, "distance": 0, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1227.7165243305412, "x": 342.63393104618444, "distance": 6300, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 495.59056679410105, "x": 1987.0157548028662, "distance": 1800, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 553.1824608927508, "x": 5286.453157957249, "distance": 3299.94, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 553.1824608927499, "x": 486.57315795724844, "distance": 4799.88, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.TargetWidth,{"target_width": 182.79}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1501, "x": 3991, "distance": 0, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 520.6497369729512, "x": 5500.607022301763, "distance": 1800, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1595.0051125922996, "x": 2380.452453938553, "distance": 3299.94, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 844.1384525349954, "x": 7121.237966194342, "distance": 4799.88, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1393.2196318452384, "x": 845.2113682163454, "distance": 6300, "w": 182.79, "h": 182.79}
+Script.TargetWidth,{"target_width": 91.35}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 499, "x": 439, "distance": 0, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1344.0488130146036, "x": 2028.3056671460683, "distance": 1800, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1631.6575347373114, "x": 5315.688399166943, "distance": 3299.94, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 551.9194680132794, "x": 638.8290126055881, "distance": 4799.88, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1428.7100040616892, "x": 6877.517845677481, "distance": 6300, "w": 91.35, "h": 91.35}
+Script.TargetWidth,{"target_width": 121.85999999999999}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 734, "x": 6078, "distance": 0, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 446.3912782772918, "x": 2790.6172679791252, "distance": 3299.94, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 634.5425121590652, "x": 1000.4778563162329, "distance": 1800, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 414.67568293331345, "x": 7296.640066536536, "distance": 6300, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 833.0127894329404, "x": 2515.025059059929, "distance": 4799.88, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.InteractionMode,{"mode": "HybridMode.CursorLift"}
+Script.TargetWidth,{"target_width": 91.35}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1432, "x": 4101, "distance": 0, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1432.0, "x": 5901.0, "distance": 1800, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1431.999999999998, "x": 1101.12, "distance": 4799.88, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 664.2231365475739, "x": 7354.160755340329, "distance": 6300, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1462.5508767127426, "x": 4152.243076373117, "distance": 3299.94, "w": 91.35, "h": 91.35}
+Script.TargetWidth,{"target_width": 121.85999999999999}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 783, "x": 6754, "distance": 0, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 453.28347566945644, "x": 462.63393104618444, "distance": 6300, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 369.5140190592682, "x": 5261.7828860734435, "distance": 4799.88, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 620.0256007873861, "x": 3479.3003623386167, "distance": 1800, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 562.4337066887368, "x": 6778.737765492999, "distance": 3299.94, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.TargetWidth,{"target_width": 182.79}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1688, "x": 6340, "distance": 0, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 364.97376856110327, "x": 1726.0592108995816, "distance": 4799.88, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1547.5664999836233, "x": 4806.818603514757, "distance": 3299.94, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1484.747405919122, "x": 6605.72209214913, "distance": 1800, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 716.9705424666934, "x": 352.68133680880055, "distance": 6300, "w": 182.79, "h": 182.79}
+Script.TargetWidth,{"target_width": 60.839999999999996}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1177, "x": 938, "distance": 0, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1506.7165243305444, "x": 7229.366068953816, "distance": 6300, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1412.5118030932442, "x": 5431.8329063955825, "distance": 1800, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1580.0251993256406, "x": 634.8768636031655, "distance": 4799.88, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 290.6359191787478, "x": 3672.487649705012, "distance": 3299.94, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.InteractionMode,{"mode": "HybridMode.Drag"}
+Script.TargetWidth,{"target_width": 121.85999999999999}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 958, "x": 5790, "distance": 0, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 874.2305433898117, "x": 990.851044972741, "distance": 4799.88, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 764.2803828349288, "x": 7289.891524458006, "distance": 6300, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 1438.5722509835684, "x": 5620.9605862377875, "distance": 1800, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 528.9855150288212, "x": 2448.8546653430913, "distance": 3299.94, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.TargetWidth,{"target_width": 60.839999999999996}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 760, "x": 1777, "distance": 0, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 447.4332801995263, "x": 3549.6539554219744, "distance": 1800, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1357.0200161542743, "x": 6721.759876316671, "distance": 3299.94, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1796.485800742256, "x": 437.1063596797776, "distance": 6300, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 880.6255200142862, "x": 5148.799044966551, "distance": 4799.88, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.TargetWidth,{"target_width": 182.79}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 750, "x": 5848, "distance": 0, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1395.0623091815405, "x": 4167.555232305037, "distance": 1800, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 652.7373269100458, "x": 952.1924807176479, "distance": 3299.94, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1420.5141903624738, "x": 7205.233236057977, "distance": 6300, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 587.023775342527, "x": 2478.27419852974, "distance": 4799.88, "w": 182.79, "h": 182.79}
+Script.TargetWidth,{"target_width": 91.35}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 730, "x": 903, "distance": 0, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 855.5616527394262, "x": 2698.6152904676837, "distance": 1800, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 453.4001316630442, "x": 5973.958038114948, "distance": 3299.94, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 537.1695882732307, "x": 1174.809083087689, "distance": 4799.88, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1847.013240425118, "x": 7337.138967710664, "distance": 6300, "w": 91.35, "h": 91.35}
+Script.InteractionMode,{"mode": "HybridMode.Absolute"}
+Script.TargetWidth,{"target_width": 121.85999999999999}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 435, "x": 4123, "distance": 0, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 529.2047212372975, "x": 2325.466837441767, "distance": 1800, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 529.2047212372989, "x": 7125.346837441767, "distance": 4799.88, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 749.0715504630499, "x": 829.1846272214634, "distance": 6300, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 749.0715504630501, "x": 4129.124627221463, "distance": 3299.94, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.TargetWidth,{"target_width": 60.839999999999996}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1415, "x": 1150, "distance": 0, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 306.8093444138151, "x": 2568.4193564920997, "distance": 1800, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 808.5334246829595, "x": 7342.0051116323675, "distance": 4799.88, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 698.5832641280664, "x": 1042.9646321471027, "distance": 6300, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1384.6793691252228, "x": 4270.793025712617, "distance": 3299.94, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.TargetWidth,{"target_width": 91.35}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1759, "x": 2582, "distance": 0, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1424.1772968050477, "x": 7370.187733561125, "distance": 4799.88, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 547.3867607566331, "x": 1131.4989004892323, "distance": 6300, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1345.714500921804, "x": 4333.416579456443, "distance": 3299.94, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 391.85982530203546, "x": 5859.9031525380105, "distance": 1800, "w": 91.35, "h": 91.35}
+Script.TargetWidth,{"target_width": 182.79}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1574, "x": 5869, "distance": 0, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1343.8078220328123, "x": 2577.0984879855955, "distance": 3299.94, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 592.9411619755147, "x": 7317.884000241385, "distance": 4799.88, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 373.07433274975836, "x": 1021.7217900210817, "distance": 6300, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1379.6215589971025, "x": 2513.989420620157, "distance": 1800, "w": 182.79, "h": 182.79}
+Script.InteractionMode,{"mode": "HybridMode.CursorTap"}
+Script.TargetWidth,{"target_width": 60.839999999999996}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1693, "x": 6689, "distance": 0, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 289.65090193542346, "x": 2098.851927948147, "distance": 4799.88, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1322.0884873673062, "x": 3573.325607668332, "distance": 1800, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1781.3513701494646, "x": 6841.15081843139, "distance": 3299.94, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.ShowTarget,{"y": 1232.2701908392178, "x": 565.1242204533928, "distance": 6300, "w": 60.839999999999996, "h": 60.839999999999996}
+Script.TargetWidth,{"target_width": 121.85999999999999}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 1188, "x": 3890, "distance": 0, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 783.0881021810426, "x": 2136.1338833865766, "distance": 1800, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 323.82521939888755, "x": 5403.959094149635, "distance": 3299.94, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 1727.17431746346, "x": 813.8110220977815, "distance": 4799.88, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.ShowTarget,{"y": 1727.1743174634605, "x": 7113.8110220977815, "distance": 6300, "w": 121.85999999999999, "h": 121.85999999999999}
+Script.TargetWidth,{"target_width": 182.79}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 717, "x": 2410, "distance": 0, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 465.79369034862304, "x": 7203.301931277784, "distance": 4799.88, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 685.660519574374, "x": 907.1397210574805, "distance": 6300, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1650.469602857122, "x": 4062.8880374501396, "distance": 3299.94, "w": 182.79, "h": 182.79}
+Script.ShowTarget,{"y": 1587.6505087926207, "x": 2263.984548815767, "distance": 1800, "w": 182.79, "h": 182.79}
+Script.TargetWidth,{"target_width": 91.35}
+Script.BeginBlock,{"run_length": 5}
+Script.ShowDiscardedTarget,{"y": 364, "x": 3613, "distance": 0, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 880.2243485648596, "x": 6872.3122626635195, "distance": 3299.94, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 770.2741880099665, "x": 573.2717831782547, "distance": 6300, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 519.7626062818492, "x": 2355.7543069130816, "distance": 1800, "w": 91.35, "h": 91.35}
+Script.ShowTarget,{"y": 1435.6228870098198, "x": 7067.446992199855, "distance": 4799.88, "w": 91.35, "h": 91.35}

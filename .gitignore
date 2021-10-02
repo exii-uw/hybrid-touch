@@ -1,0 +1,6 @@
+run/
+game/run/
+.ipynb_checkpoints
+*.log
+*.aux
+*.synctex.gz
